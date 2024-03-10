@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there, I'm Hyeonin!👋
+
+I'm Game Developer.
+
+## Contact
+📧 Email: hyeonin824@gmail.com
+
+## Skills
+- Programming Languages: C#, GDScript
+- Game Development: Unity, Godot Engine
+- Version Control: Git, GitHub
 
 <!--
 **hyeon-in/hyeon-in** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
