@@ -114,7 +114,7 @@
   - **장르**: 러너
   - **개발 인원**: 2명
     - Hyeonin: Programmer
-    - [OJIBI](https://x.com/o0000000000__)): Artist
+    - [OJIBI](https://x.com/o0000000000__): Artist
   - **개발 목적**: [MiniJam166](https://itch.io/jam/mini-jam-166-earth) 참여, 협업을 통한 협동력 기르기
   - **개발 기간**: 2024-08-30 ~ 2024-09-02
   - **특징**
