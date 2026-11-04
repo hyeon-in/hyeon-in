@@ -1,3 +1,4 @@
+<!--
 # Hyeonin(현인) - Game Developer🎮
 안녕하세요! 저는 픽셀 그래픽 2D 게임을 주로 개발하는 게임 프로그래머입니다. 👋
 
@@ -19,7 +20,7 @@
 ## 📧 Contact
 - **Email**: hyeonin824@gmail.com
 
-<!--
+
 **hyeon-in/hyeon-in** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
